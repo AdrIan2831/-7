@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Горбуля Адриан 7 практическая работа/1.0.0": {
+        "runtime": {
+          "Горбуля Адриан 7 практическая работа.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Горбуля Адриан 7 практическая работа/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
